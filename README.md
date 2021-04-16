@@ -7,6 +7,7 @@
 
 **Tabelas**
 
-Nome | Email | senha
---- | --- | ---
+Nome | Email | senha |
+--- | --- | --- | ---
 Iaco | iacovale6230@gmail.com | teste
+--- | --- | --- | ---
